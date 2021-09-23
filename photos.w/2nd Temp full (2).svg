@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="770" height="702" viewBox="0 0 770 702">
+  <g id="_2nd_Temp_full" data-name="2nd Temp full" transform="translate(-167 -202.373)">
+    <g id="Ellipse_11" data-name="Ellipse 11" transform="translate(463 488.373)" fill="none" stroke="#707070" stroke-width="4" stroke-dasharray="10" opacity="0.17">
+      <ellipse cx="98.5" cy="98" rx="98.5" ry="98" stroke="none"/>
+      <ellipse cx="98.5" cy="98" rx="96.5" ry="96" fill="none"/>
+    </g>
+    <g id="Ellipse_12" data-name="Ellipse 12" transform="translate(390 415.373)" fill="none" stroke="#707070" stroke-width="4" stroke-dasharray="10" opacity="0.17">
+      <circle cx="171.5" cy="171.5" r="171.5" stroke="none"/>
+      <circle cx="171.5" cy="171.5" r="169.5" fill="none"/>
+    </g>
+    <g id="Ellipse_13" data-name="Ellipse 13" transform="translate(324 349.373)" fill="none" stroke="#707070" stroke-width="4" stroke-dasharray="10" opacity="0.17">
+      <circle cx="237" cy="237" r="237" stroke="none"/>
+      <circle cx="237" cy="237" r="235" fill="none"/>
+    </g>
+    <g id="Ellipse_14" data-name="Ellipse 14" transform="translate(266 291.373)" fill="none" stroke="#707070" stroke-width="4" stroke-dasharray="10" opacity="0.17">
+      <circle cx="295.5" cy="295.5" r="295.5" stroke="none"/>
+      <circle cx="295.5" cy="295.5" r="293.5" fill="none"/>
+    </g>
+    <circle id="Ellipse_8" data-name="Ellipse 8" cx="176" cy="176" r="176" transform="translate(209 202.373)" fill="#f87171"/>
+    <ellipse id="Ellipse_9" data-name="Ellipse 9" cx="131.5" cy="128" rx="131.5" ry="128" transform="translate(354 648.373)" fill="#1f2937"/>
+    <circle id="Ellipse_10" data-name="Ellipse 10" cx="144" cy="144" r="144" transform="translate(649 379.373)" fill="#fbbf24"/>
+    <circle id="Ellipse_15" data-name="Ellipse 15" cx="31" cy="31" r="31" transform="translate(683 809.373)" fill="#f87171"/>
+    <circle id="Ellipse_16" data-name="Ellipse 16" cx="14.5" cy="14.5" r="14.5" transform="translate(603 344.373)" fill="#fbbf24"/>
+    <circle id="Ellipse_17" data-name="Ellipse 17" cx="21" cy="21" r="21" transform="translate(167 586.373)" fill="#1f2937"/>
+    <g id="Group_5" data-name="Group 5" transform="translate(342.866 260.986)">
+      <g id="Rectangle_8" data-name="Rectangle 8" transform="translate(0.133 0.386)" fill="none" stroke="#fff" stroke-width="5">
+        <rect width="85" height="107" rx="7" stroke="none"/>
+        <rect x="2.5" y="2.5" width="80" height="102" rx="4.5" fill="none"/>
+      </g>
+      <line id="Line_5" data-name="Line 5" x2="83.116" transform="translate(0.299 27.207)" fill="none" stroke="#fff" stroke-width="4"/>
+      <line id="Line_6" data-name="Line 6" y2="78.332" transform="translate(25.414 27.805)" fill="none" stroke="#fff" stroke-width="4"/>
+      <path id="Path_7" data-name="Path 7" d="M0,0H59.5" transform="translate(25.414 70.26)" fill="none" stroke="#fff" stroke-width="4"/>
+    </g>
+    <g id="idea_1_" data-name="idea (1)" transform="translate(449.915 703.383)">
+      <g id="Group_29" data-name="Group 29" transform="translate(0)">
+        <g id="Group_28" data-name="Group 28">
+          <path id="Path_19" data-name="Path 19" d="M136.851,111.106a19.381,19.381,0,0,0-14.62-5.27A19.721,19.721,0,0,0,103.7,125.3a20.2,20.2,0,0,0,10.37,17.425v9.69a9.35,9.35,0,0,0,18.7,0v-9.605a20.57,20.57,0,0,0,10.37-17.425A19.976,19.976,0,0,0,136.851,111.106ZM123.42,158.2a6.035,6.035,0,0,1-5.7-5.1h11.39A6.035,6.035,0,0,1,123.42,158.2Zm5.95-8.5h-11.9v-2.55h11.9Zm.85-9.52a1.7,1.7,0,0,0-.85,1.53v2.04h-11.9v-2.04a1.786,1.786,0,0,0-.85-1.615,15.9,15.9,0,0,1-9.52-14.705,16.49,16.49,0,0,1,15.3-16.15h1.02a16.405,16.405,0,0,1,16.32,16.15A16.236,16.236,0,0,1,130.221,140.177Z" transform="translate(-87.465 -88.58)" fill="#fff"/>
+          <path id="Path_20" data-name="Path 20" d="M216.165,12.58a1.7,1.7,0,0,0,1.7-1.7V1.7a1.7,1.7,0,1,0-3.4,0v9.18A1.7,1.7,0,0,0,216.165,12.58Z" transform="translate(-180.209)" fill="#fff"/>
+          <path id="Path_21" data-name="Path 21" d="M14.8,208.457H5.618a1.7,1.7,0,1,0,0,3.4H14.8a1.7,1.7,0,0,0,0-3.4Z" transform="translate(-3.918 -174.541)" fill="#fff"/>
+          <path id="Path_22" data-name="Path 22" d="M379.468,208.457h-9.18a1.7,1.7,0,0,0,0,3.4h9.18a1.7,1.7,0,1,0,0-3.4Z" transform="translate(-309.257 -174.541)" fill="#fff"/>
+          <path id="Path_23" data-name="Path 23" d="M65.2,63.664l6.545,6.46a1.615,1.615,0,0,0,2.282.1c.034-.031.067-.064.1-.1a1.615,1.615,0,0,0,.1-2.282c-.031-.034-.064-.067-.1-.1l-6.545-6.46a1.7,1.7,0,1,0-2.38,2.38Z" transform="translate(-54.662 -50.744)" fill="#fff"/>
+          <path id="Path_24" data-name="Path 24" d="M323.576,70.123a1.643,1.643,0,0,0,2.38,0l6.545-6.46a1.7,1.7,0,1,0-2.38-2.38l-6.545,6.46a1.615,1.615,0,0,0-.1,2.282Q323.524,70.076,323.576,70.123Z" transform="translate(-271.129 -50.743)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_4" data-name="Group 4" transform="translate(749.216 460.884)">
+      <g id="Rectangle_7" data-name="Rectangle 7" transform="translate(-0.215 0.489)" fill="none" stroke="#1f2937" stroke-width="5">
+        <rect width="89" height="41" rx="7" stroke="none"/>
+        <rect x="2.5" y="2.5" width="84" height="36" rx="4.5" fill="none"/>
+      </g>
+      <line id="Line_1" data-name="Line 1" x1="41.599" y2="18.865" transform="translate(44.546 2.367)" fill="none" stroke="#1f2937" stroke-width="5"/>
+      <line id="Line_2" data-name="Line 2" x2="43.552" y2="18.865" transform="translate(2.659 2.367)" fill="none" stroke="#1f2937" stroke-width="5"/>
+      <line id="Line_3" data-name="Line 3" y1="21.514" x2="34.679" transform="translate(2.659 17.459)" fill="none" stroke="#1f2937" stroke-width="5"/>
+      <line id="Line_4" data-name="Line 4" x1="34.037" y1="21.514" transform="translate(52.108 17.459)" fill="none" stroke="#1f2937" stroke-width="5"/>
+    </g>
+    <text id="Email_Marketing" data-name="Email 
+Marketing" transform="translate(792 562.373)" fill="#1f2937" font-size="32" font-family="BoutrosART-Medium, BoutrosART" font-weight="500"><tspan x="-37.248" y="0">Email </tspan><tspan x="-61.904" y="32">Marketing</tspan></text>
+    <text id="Website_Optimization" data-name="Website
+Optimization" transform="translate(386 433.373)" fill="#fff" font-size="32" font-family="BoutrosART-Medium, BoutrosART" font-weight="500"><tspan x="-51.136" y="0">Website</tspan><tspan x="-79.776" y="32">Optimization</tspan></text>
+    <text id="Marketing_Strategy" data-name="Marketing
+Strategy" transform="translate(484 826.373)" fill="#fff" font-size="29" font-family="BoutrosART-Medium, BoutrosART" font-weight="500"><tspan x="-56.1" y="0">Marketing</tspan><tspan x="-49.662" y="32">Strategy</tspan></text>
+  </g>
+</svg>
